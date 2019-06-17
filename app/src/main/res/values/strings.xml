@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MadLibs_Remastered</string>
+    <string name="title_activity_saved_stories">SavedStoriesActivity</string>
+</resources>
